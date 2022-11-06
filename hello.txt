@@ -12,5 +12,6 @@ hello yeye
 hello yeye
 hello yeye
 hello yeye
+<<<<<<< HEAD
 hello yeye master
-hello yeye
+hello yeye  hot-fix
